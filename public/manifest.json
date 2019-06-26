@@ -1,0 +1,26 @@
+{
+  "short_name": "poke",
+  "name": "arneckx poke",
+  "icons": [
+    {
+      "src": "/images/logo_128x128.png",
+      "type": "image/png",
+      "sizes": "128x128"
+    },
+    {
+      "src": "/images/logo_192x192.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "/images/logo_512x512.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ],
+  "start_url": "/",
+  "background_color": "#df2a26",
+  "display": "standalone",
+  "scope": "/",
+  "theme_color": "#df2a26"
+}
